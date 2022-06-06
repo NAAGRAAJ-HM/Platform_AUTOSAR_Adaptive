@@ -166,3 +166,6 @@
 [submodule "projects/Prj_VirtualECU_AndroidSamsungUbuntu_LATEST"]
 	path = projects/Prj_VirtualECU_AndroidSamsungUbuntu_LATEST
 	url = git@github.com:NAAGRAAJ-HM/Prj_VirtualECU_AndroidSamsungUbuntu_LATEST.git
+[submodule "projects/Prj_VW_GatewayECU_InfineonTriCore_Windows11_LATEST"]
+	path = projects/Prj_VW_GatewayECU_InfineonTriCore_Windows11_LATEST
+	url = git@github.com:NAAGRAAJ-HM/Prj_VW_GatewayECU_InfineonTriCore_Windows11_LATEST.git
