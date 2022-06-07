@@ -169,3 +169,6 @@
 [submodule "projects/Prj_VW_GatewayECU_InfineonTriCore_Windows11_LATEST"]
 	path = projects/Prj_VW_GatewayECU_InfineonTriCore_Windows11_LATEST
 	url = git@github.com:NAAGRAAJ-HM/Prj_VW_GatewayECU_InfineonTriCore_Windows11_LATEST.git
+[submodule "projects/Prj_Eberspaecher_ClimateControlECU_RenesasV850_Windows10_LATEST"]
+	path = projects/Prj_Eberspaecher_ClimateControlECU_RenesasV850_Windows10_LATEST
+	url = git@github.com:NAAGRAAJ-HM/Prj_Eberspaecher_ClimateControlECU_RenesasV850_Windows10_LATEST.git
