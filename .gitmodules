@@ -172,3 +172,18 @@
 [submodule "projects/Prj_Eberspaecher_ClimateControlECU_RenesasV850_Windows10_LATEST"]
 	path = projects/Prj_Eberspaecher_ClimateControlECU_RenesasV850_Windows10_LATEST
 	url = git@github.com:NAAGRAAJ-HM/Prj_Eberspaecher_ClimateControlECU_RenesasV850_Windows10_LATEST.git
+[submodule "projects/Prj_BMW_AdCamDomainECU_InfineonAURIX_Windows10_LATEST"]
+	path = projects/Prj_BMW_AdCamDomainECU_InfineonAURIX_Windows10_LATEST
+	url = git@github.com:NAAGRAAJ-HM/Prj_BMW_AdCamDomainECU_InfineonAURIX_Windows10_LATEST.git
+[submodule "projects/Prj_Volvo_MRR2_InfineonTricore_Windows8_LATEST"]
+	path = projects/Prj_Volvo_MRR2_InfineonTricore_Windows8_LATEST
+	url = git@github.com:NAAGRAAJ-HM/Prj_Volvo_MRR2_InfineonTricore_Windows8_LATEST.git
+[submodule "projects/Prj_VW_SRR3_InfineonTriCore_Windows7_LATEST"]
+	path = projects/Prj_VW_SRR3_InfineonTriCore_Windows7_LATEST
+	url = git@github.com:NAAGRAAJ-HM/Prj_VW_SRR3_InfineonTriCore_Windows7_LATEST.git
+[submodule "projects/Prj_Nissan_BatteryECU_NECv850_WindowsXP_LATEST"]
+	path = projects/Prj_Nissan_BatteryECU_NECv850_WindowsXP_LATEST
+	url = git@github.com:NAAGRAAJ-HM/Prj_Nissan_BatteryECU_NECv850_WindowsXP_LATEST.git
+[submodule "projects/Prj_Volvo_EngineECU_InfineonSilverOak_UnixSolaris_LATEST"]
+	path = projects/Prj_Volvo_EngineECU_InfineonSilverOak_UnixSolaris_LATEST
+	url = git@github.com:NAAGRAAJ-HM/Prj_Volvo_EngineECU_InfineonSilverOak_UnixSolaris_LATEST.git
