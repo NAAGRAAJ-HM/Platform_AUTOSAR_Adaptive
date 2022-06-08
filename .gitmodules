@@ -163,3 +163,6 @@
 [submodule "modules/SwcServiceOs"]
 	path = modules/SwcServiceOs
 	url = git@github.com:NAAGRAAJ-HM/SwcServiceOs.git
+[submodule "projects/Prj_Samsung_VirtualECU_AndroidAMD_Ubuntu20x"]
+	path = projects/Prj_Samsung_VirtualECU_AndroidAMD_Ubuntu20x
+	url = git@github.com:NAAGRAAJ-HM/Prj_Samsung_VirtualECU_AndroidAMD_Ubuntu20x.git
