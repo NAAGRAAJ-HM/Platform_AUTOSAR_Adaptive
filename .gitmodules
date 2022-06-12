@@ -166,3 +166,24 @@
 [submodule "projects/Prj_Samsung_VirtualECU_AndroidAMD_Ubuntu20x"]
 	path = projects/Prj_Samsung_VirtualECU_AndroidAMD_Ubuntu20x
 	url = git@github.com:NAAGRAAJ-HM/Prj_Samsung_VirtualECU_AndroidAMD_Ubuntu20x.git
+[submodule "modules/BswAUTOSAR_Service_FrNm"]
+	path = modules/BswAUTOSAR_Service_FrNm
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_Service_FrNm.git
+[submodule "modules/BswAUTOSAR_EcuAb_FrTp"]
+	path = modules/BswAUTOSAR_EcuAb_FrTp
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_EcuAb_FrTp.git
+[submodule "modules/BswAUTOSAR_Service_IpduM"]
+	path = modules/BswAUTOSAR_Service_IpduM
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_Service_IpduM.git
+[submodule "modules/BswAUTOSAR_Service_Dlt"]
+	path = modules/BswAUTOSAR_Service_Dlt
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_Service_Dlt.git
+[submodule "modules/BswAUTOSAR_Service_CanSm"]
+	path = modules/BswAUTOSAR_Service_CanSm
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_Service_CanSm.git
+[submodule "modules/BswAUTOSAR_Service_CanNm"]
+	path = modules/BswAUTOSAR_Service_CanNm
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_Service_CanNm.git
+[submodule "modules/BswAUTOSAR_EcuAb_J1939Tp"]
+	path = modules/BswAUTOSAR_EcuAb_J1939Tp
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_EcuAb_J1939Tp.git
