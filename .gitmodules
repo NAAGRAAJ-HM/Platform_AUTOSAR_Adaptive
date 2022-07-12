@@ -190,3 +190,6 @@
 [submodule "projects/Prj_PEAQ_VirtualECU_INTELi7_Ubuntu20.04LTS"]
 	path = projects/Prj_PEAQ_VirtualECU_INTELi7_Ubuntu20.04LTS
 	url = git@github.com:NAAGRAAJ-HM/Prj_PEAQ_VirtualECU_INTELi7_Ubuntu20.04LTS.git
+[submodule "projects/Prj_PEAQ_VirtualECU_INTELi7_Windows10Home"]
+	path = projects/Prj_PEAQ_VirtualECU_INTELi7_Windows10Home
+	url = git@github.com:NAAGRAAJ-HM/Prj_PEAQ_VirtualECU_INTELi7_Windows10Home.git
